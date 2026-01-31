@@ -6,6 +6,7 @@ This repository contains Apify agent skills converted to OpenClaw format for use
 
 | Skill | Description | Emoji |
 |-------|-------------|-------|
+| `apify-moltbook-scraper` | Scrape Moltbook - the social network for AI agents | 🦞 |
 | `apify-ultimate-scraper` | Universal AI-powered web scraper for any platform | 🕷️ |
 | `apify-lead-generation` | B2B/B2C lead generation from multiple platforms | 📊 |
 | `apify-audience-analysis` | Audience demographics and behavior analysis | 👥 |
